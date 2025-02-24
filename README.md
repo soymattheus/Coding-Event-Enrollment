@@ -1,34 +1,52 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+<h1 align="center">Code Craft</h1>
 
-## Getting Started
+<h3>Main used technologies</h3>
 
-First, run the development server:
+<ul>
+<li>React</li>
+<li>Next</li>
+<li>Tailwind</li>
+<li>Postcss</li>
+<li>Tailwind Merge</li>
+<li>React Hook Form</li>
+<li>Lucide React</li>
+</ul>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+<h3>Screen Images</h3>
+<p align="center">
+<img loading="lazy" src="./github/images/homePage.png"/>
+</p>
+<p align="center">
+<img loading="lazy" src="./github/images/invitePage.png"/>
+</p>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+<h3>To run the project locally follow these steps</h3>
+<ol>
+<li>Clone the project:</li>
+<p>git clone <a>https://github.com/soymattheus/Coding-Event-Enrollment</a></p>
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+<li>Enter the cloned project folder</li>
 
-## Learn More
+<li>Install required packges:</li>
+<p>npm install</p>
 
-To learn more about Next.js, take a look at the following resources:
+<li>Clone the API project and follow the steps to run it:</li>
+<p>git clone <a>https://github.com/soymattheus/Coding-Event-Enrollment-Api</a></p>
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+<li>Run the web project in your localhost:</li>
+<p>npm run dev</p>
+</ol>
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+<h3>To run prod version, follow these steps:</h3>
+<ol>
+<li>Run the build command:</li>
+<p>npm run build</p>
 
-## Deploy on Vercel
+<li>Run the prod project version</li>
+<p>npm run prod</p>
+</ol>
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+<p>I hope you like this little project.</p>
+<p>If you have any difficulties, you can send me a message via <a href="https://www.linkedin.com/in/mattheusdev/" target="_blank">linkedIn</a>.</p>
+<p>
+If you have ideas, contributions or would like to give any constructive criticism, feel free to message me via <a href="https://www.linkedin.com/in/mattheusdev/" target="_blank">linkedIn</a>. Any contribution will be welcome.</p>
