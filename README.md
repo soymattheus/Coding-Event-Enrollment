@@ -23,7 +23,7 @@
 <h3>To run the project locally follow these steps</h3>
 <ol>
 <li>Clone the project:</li>
-<p>git clone <a>https://github.com/soymattheus/Coding-Event-Enrollment</a></p>
+<p>git clone https://github.com/soymattheus/Coding-Event-Enrollment</p>
 
 <li>Enter the cloned project folder</li>
 
@@ -31,9 +31,9 @@
 <p>npm install</p>
 
 <li>Clone the API project and follow the steps to run it:</li>
-<p>git clone <a>https://github.com/soymattheus/Coding-Event-Enrollment-Api</a></p>
+<p>git clone https://github.com/soymattheus/Coding-Event-Enrollment-Api</p>
 
-<li>Run the web project in your localhost:</li>
+<li>Run the project locally:</li>
 <p>npm run dev</p>
 </ol>
 
