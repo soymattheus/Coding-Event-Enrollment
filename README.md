@@ -10,6 +10,7 @@
 <li>Tailwind Merge</li>
 <li>React Hook Form</li>
 <li>Lucide React</li>
+<li>Zod</li>
 </ul>
 
 <h3>Screen Images</h3>
@@ -35,15 +36,6 @@
 
 <li>Run the project locally:</li>
 <p>npm run dev</p>
-</ol>
-
-<h3>To run prod version, follow these steps:</h3>
-<ol>
-<li>Run the build command:</li>
-<p>npm run build</p>
-
-<li>Run the prod project version</li>
-<p>npm run prod</p>
 </ol>
 
 <p>I hope you like this little project.</p>
